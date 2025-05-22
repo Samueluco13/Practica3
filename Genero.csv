@@ -1,16 +1,16 @@
 codigo,nombre,descripcion
-G1,Acción,Contenido con muchas escenas de acción y aventura
-G2,Drama,Contenido dramático centrado en emociones
-G3,Ciencia Ficción,"Viajes en el tiempo, espacio o futurismo"
-G4,Comedia,Diseñado para hacer reír
-G5,Terror,Contenido diseñado para causar miedo
-G6,Género 6,Descripción del género 6
-G7,Género 7,Descripción del género 7
-G8,Género 8,Descripción del género 8
-G9,Género 9,Descripción del género 9
-G10,Género 10,Descripción del género 10
-G11,Género 11,Descripción del género 11
-G12,Género 12,Descripción del género 12
-G13,Género 13,Descripción del género 13
-G14,Género 14,Descripción del género 14
-G15,Género 15,Descripción del género 15
+1,Acción,Contenido con muchas escenas de acción y aventura
+2,Drama,Contenido dramático centrado en emociones
+3,Ciencia Ficción,Viajes en el tiempo, espacio o futurismo
+4,Comedia,Diseñado para hacer reír
+5,Terror,Contenido diseñado para causar miedo
+6,Fantasía,Mundos imaginarios, magia y criaturas sobrenaturales
+7,Romance,Relaciones amorosas como eje principal
+8,Documental,Contenido informativo basado en hechos reales
+9,Suspenso,Narrativa que genera tensión e intriga
+10,Animación,Contenido animado, tanto para niños como adultos
+11,Aventura,Historias de exploración, desafíos y viajes
+12,Histórico,Basado en eventos o contextos del pasado
+13,Musical,Incluye actuaciones musicales como parte central
+14,Crimen,Narrativa sobre delitos y justicia
+15,Deporte,Contenido centrado en actividades deportivas
