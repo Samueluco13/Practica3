@@ -1,21 +1,26 @@
 contenidoId,nombre,tipo,descripcion,duracion,anioEstreno,calificacion
-101,Matrix,Película,Película de ciencia ficción,136,1999,4.7
-102,Breaking Bad,Serie,Serie de drama criminal,2914,2008,4.9
-103,Game of Thrones,Serie,Serie de fantasía épica,4015,2011,4.6
-104,The Office,Serie,Comedia de oficina,201,2005,4.5
-105,Interstellar,Película,Viajes espaciales y tiempo,169,2014,4.8
-106,Friends,Serie,Serie de comedia y amistad,236,1994,4.7
-107,Dark,Serie,Serie de ciencia ficción alemana,26,2017,4.6
-108,The Mandalorian,Serie,Serie de Star Wars,16,2019,4.5
-109,Chernobyl,Serie,Miniserie histórica,5,2019,4.9
-110,The Crown,Serie,Serie sobre la monarquía británica,40,2016,4.4
-111,Contenido 111,Serie,Descripción del contenido 111,100,2011,4.1
-112,Contenido 112,Película,Descripción del contenido 112,110,2012,4.2
-113,Contenido 113,Serie,Descripción del contenido 113,120,2013,4.3
-114,Contenido 114,Película,Descripción del contenido 114,130,2014,4.4
-115,Contenido 115,Serie,Descripción del contenido 115,90,2015,4.5
-116,Contenido 116,Película,Descripción del contenido 116,100,2016,4.6
-117,Contenido 117,Serie,Descripción del contenido 117,110,2017,4.7
-118,Contenido 118,Película,Descripción del contenido 118,120,2018,4.8
-119,Contenido 119,Serie,Descripción del contenido 119,130,2019,4.9
-120,Contenido 120,Película,Descripción del contenido 120,90,2020,3.5
+201,Matrix,Película,Película de ciencia ficción,136,1999,4.7
+202,Interstellar,Película,Viajes espaciales y tiempo,169,2014,4.8
+203,Inception,Película,Sueños dentro de sueños,148,2010,4.6
+301,Breaking Bad,Serie,Serie de drama criminal,0,2008,4.9
+302,Dark,Serie,Serie de ciencia ficción alemana,0,2017,4.6
+311,BB S1E1,Episodio,Piloto Breaking Bad,47,2008,4.8
+312,BB S1E2,Episodio,Episodio 2 Breaking Bad,46,2008,4.7
+313,BB S1E3,Episodio,Episodio 3 Breaking Bad,45,2008,4.6
+314,BB S1E4,Episodio,Episodio 4 Breaking Bad,44,2008,4.8
+315,BB S1E5,Episodio,Episodio 5 Breaking Bad,46,2008,4.9
+316,BB S2E1,Episodio,Episodio 1 T2 Breaking Bad,47,2009,4.9
+317,BB S2E2,Episodio,Episodio 2 T2 Breaking Bad,46,2009,4.7
+318,BB S2E3,Episodio,Episodio 3 T2 Breaking Bad,45,2009,4.8
+319,BB S2E4,Episodio,Episodio 4 T2 Breaking Bad,44,2009,4.9
+320,BB S2E5,Episodio,Episodio 5 T2 Breaking Bad,46,2009,4.8
+321,Dark S1E1,Episodio,Piloto Dark,50,2017,4.7
+322,Dark S1E2,Episodio,Episodio 2 Dark,51,2017,4.6
+323,Dark S1E3,Episodio,Episodio 3 Dark,52,2017,4.8
+324,Dark S1E4,Episodio,Episodio 4 Dark,49,2017,4.7
+325,Dark S1E5,Episodio,Episodio 5 Dark,48,2017,4.6
+326,Dark S2E1,Episodio,Episodio 1 T2 Dark,50,2019,4.8
+327,Dark S2E2,Episodio,Episodio 2 T2 Dark,51,2019,4.7
+328,Dark S2E3,Episodio,Episodio 3 T2 Dark,52,2019,4.8
+329,Dark S2E4,Episodio,Episodio 4 T2 Dark,49,2019,4.7
+330,Dark S2E5,Episodio,Episodio 5 T2 Dark,48,2019,4.6
