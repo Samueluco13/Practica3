@@ -1,0 +1,16 @@
+usuarioId,nombre,edad,sexo,email,fechaNacimiento
+1,Juan Perez,28,M,juan.perez@gmail.com,1996-03-15
+2,Ana Garcia,34,F,ana.garcia@gmail.com,1990-07-22
+3,Carlos Ruiz,22,M,carlos.ruiz@gmail.com,2002-01-10
+4,Laura Martinez,30,F,laura.martinez@gmail.com,1995-12-03
+5,Pedro Gomez,40,M,pedro.gomez@gmail.com,1985-06-27
+6,Sofia Herrera,26,F,sofia.herrera@gmail.com,1998-09-14
+7,Luis Torres,31,M,luis.torres@gmail.com,1993-02-25
+8,Marta Lopez,27,F,marta.lopez@gmail.com,1997-04-11
+9,Diego Ramirez,36,M,diego.ramirez@gmail.com,1988-10-05
+10,Elena Castro,24,F,elena.castro@gmail.com,2000-01-30
+11,Javier Sanchez,29,M,javier.sanchez@gmail.com,1995-08-09
+12,Patricia Rios,33,F,patricia.rios@gmail.com,1991-11-22
+13,Fernando Leon,38,M,fernando.leon@gmail.com,1986-05-16
+14,Claudia Vega,25,F,claudia.vega@gmail.com,1999-03-08
+15,Andres Molina,32,M,andres.molina@gmail.com,1992-07-03
