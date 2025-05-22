@@ -20,7 +20,7 @@ usuarioId,contenidoId,fechaVisualizacion,minutosReproducidos,finalizado
 13,10,2025-04-12,14,False
 14,4,2024-11-09,27,False
 8,21,2024-11-17,10,False
-6,12,2025-02-04,42,True
+6,12,2025-02-04,46,True
 5,23,2024-06-07,41,False
 2,20,2024-07-01,10,False
 9,24,2025-01-17,10,False
@@ -28,7 +28,7 @@ usuarioId,contenidoId,fechaVisualizacion,minutosReproducidos,finalizado
 12,18,2025-01-30,43,False
 6,25,2025-04-24,14,False
 14,2,2024-12-12,102,False
-5,3,2025-02-03,145,True
+5,3,2025-02-03,148,True
 15,23,2024-12-12,13,False
 11,16,2024-11-01,41,False
 8,5,2025-01-07,18,False
@@ -42,7 +42,7 @@ usuarioId,contenidoId,fechaVisualizacion,minutosReproducidos,finalizado
 7,13,2024-07-21,29,False
 9,9,2024-08-12,0,False
 11,24,2025-03-25,43,False
-15,18,2025-01-06,49,True
+15,18,2025-01-06,52,True
 11,11,2025-03-26,18,False
 7,6,2024-10-02,0,False
 12,24,2025-01-08,32,False
@@ -59,7 +59,7 @@ usuarioId,contenidoId,fechaVisualizacion,minutosReproducidos,finalizado
 11,16,2024-08-14,10,False
 5,17,2024-07-16,27,False
 4,18,2024-06-03,12,False
-12,10,2024-10-30,42,True
+12,10,2024-10-30,46,True
 11,12,2024-10-10,33,False
 8,4,2025-01-16,24,False
 2,11,2025-05-12,37,False
@@ -88,7 +88,7 @@ usuarioId,contenidoId,fechaVisualizacion,minutosReproducidos,finalizado
 12,24,2024-08-11,42,False
 12,16,2025-03-04,12,False
 5,7,2025-04-23,37,False
-12,18,2025-04-21,47,True
+12,18,2025-04-21,52,True
 6,2,2025-04-27,149,False
 8,17,2024-08-24,10,False
 1,17,2025-04-11,11,False
@@ -99,14 +99,14 @@ usuarioId,contenidoId,fechaVisualizacion,minutosReproducidos,finalizado
 7,22,2024-07-28,36,False
 9,11,2025-01-09,13,False
 11,23,2024-12-13,15,False
-5,13,2025-03-16,42,True
+5,13,2025-03-16,45,True
 11,10,2024-09-30,20,False
 15,25,2025-04-15,0,False
 8,20,2024-08-07,6,False
 2,18,2025-02-02,32,False
 5,5,2024-11-25,14,False
 15,8,2024-11-14,18,False
-3,15,2024-08-17,45,True
+3,15,2024-08-17,46,True
 5,20,2024-06-22,33,False
 1,22,2024-08-12,19,False
 15,22,2025-03-30,8,False
@@ -123,7 +123,7 @@ usuarioId,contenidoId,fechaVisualizacion,minutosReproducidos,finalizado
 9,2,2024-11-14,149,False
 9,5,2024-10-14,18,False
 1,10,2024-11-17,2,False
-15,12,2025-02-04,43,True
+15,12,2025-02-04,46,True
 4,22,2025-03-31,22,False
 13,18,2024-10-26,39,False
 12,5,2025-01-21,20,False
@@ -146,6 +146,6 @@ usuarioId,contenidoId,fechaVisualizacion,minutosReproducidos,finalizado
 1,23,2024-10-11,0,False
 9,18,2024-06-05,46,False
 12,24,2024-06-13,12,False
-6,14,2025-04-17,42,True
+6,14,2025-04-17,44,True
 15,11,2024-07-07,20,False
 11,4,2024-12-20,42,False
