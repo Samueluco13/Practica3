@@ -1,26 +1,26 @@
 contenidoId,nombre,tipo,descripcion,duracion,anioEstreno,calificacion
-001,Matrix,Película,Película de ciencia ficción,136,1999,4.7
-002,Interstellar,Película,Viajes espaciales y tiempo,169,2014,4.8
-003,Inception,Película,Sueños dentro de sueños,148,2010,4.6
-001,Breaking Bad,Serie,Serie de drama criminal,0,2008,4.9
-002,Dark,Serie,Serie de ciencia ficción alemana,0,2017,4.6
-011,BB S1E1,Episodio,Piloto Breaking Bad,47,2008,4.8
-012,BB S1E2,Episodio,Episodio 2 Breaking Bad,46,2008,4.7
-013,BB S1E3,Episodio,Episodio 3 Breaking Bad,45,2008,4.6
-014,BB S1E4,Episodio,Episodio 4 Breaking Bad,44,2008,4.8
-015,BB S1E5,Episodio,Episodio 5 Breaking Bad,46,2008,4.9
-016,BB S2E1,Episodio,Episodio 1 T2 Breaking Bad,47,2009,4.9
-017,BB S2E2,Episodio,Episodio 2 T2 Breaking Bad,46,2009,4.7
-018,BB S2E3,Episodio,Episodio 3 T2 Breaking Bad,45,2009,4.8
-019,BB S2E4,Episodio,Episodio 4 T2 Breaking Bad,44,2009,4.9
-020,BB S2E5,Episodio,Episodio 5 T2 Breaking Bad,46,2009,4.8
-021,Dark S1E1,Episodio,Piloto Dark,50,2017,4.7
-022,Dark S1E2,Episodio,Episodio 2 Dark,51,2017,4.6
-023,Dark S1E3,Episodio,Episodio 3 Dark,52,2017,4.8
-024,Dark S1E4,Episodio,Episodio 4 Dark,49,2017,4.7
-025,Dark S1E5,Episodio,Episodio 5 Dark,48,2017,4.6
-026,Dark S2E1,Episodio,Episodio 1 T2 Dark,50,2019,4.8
-027,Dark S2E2,Episodio,Episodio 2 T2 Dark,51,2019,4.7
-028,Dark S2E3,Episodio,Episodio 3 T2 Dark,52,2019,4.8
-029,Dark S2E4,Episodio,Episodio 4 T2 Dark,49,2019,4.7
-030,Dark S2E5,Episodio,Episodio 5 T2 Dark,48,2019,4.6
+1,Matrix,Película,Película de ciencia ficción,136,1999,4.7
+2,Interstellar,Película,Viajes espaciales y tiempo,169,2014,4.8
+3,Inception,Película,Sueños dentro de sueños,148,2010,4.6
+4,Breaking Bad,Serie,Serie de drama criminal,0,2008,4.9
+5,Dark,Serie,Serie de ciencia ficción alemana,0,2017,4.6
+6,BB S1E1,Episodio,Piloto Breaking Bad,47,2008,4.8
+7,BB S1E2,Episodio,Episodio 2 Breaking Bad,46,2008,4.7
+8,BB S1E3,Episodio,Episodio 3 Breaking Bad,45,2008,4.6
+9,BB S1E4,Episodio,Episodio 4 Breaking Bad,44,2008,4.8
+10,BB S1E5,Episodio,Episodio 5 Breaking Bad,46,2008,4.9
+11,BB S2E1,Episodio,Episodio 1 T2 Breaking Bad,47,2009,4.9
+12,BB S2E2,Episodio,Episodio 2 T2 Breaking Bad,46,2009,4.7
+13,BB S2E3,Episodio,Episodio 3 T2 Breaking Bad,45,2009,4.8
+14,BB S2E4,Episodio,Episodio 4 T2 Breaking Bad,44,2009,4.9
+15,BB S2E5,Episodio,Episodio 5 T2 Breaking Bad,46,2009,4.8
+16,Dark S1E1,Episodio,Piloto Dark,50,2017,4.7
+17,Dark S1E2,Episodio,Episodio 2 Dark,51,2017,4.6
+18,Dark S1E3,Episodio,Episodio 3 Dark,52,2017,4.8
+19,Dark S1E4,Episodio,Episodio 4 Dark,49,2017,4.7
+20,Dark S1E5,Episodio,Episodio 5 Dark,48,2017,4.6
+21,Dark S2E1,Episodio,Episodio 1 T2 Dark,50,2019,4.8
+22,Dark S2E2,Episodio,Episodio 2 T2 Dark,51,2019,4.7
+23,Dark S2E3,Episodio,Episodio 3 T2 Dark,52,2019,4.8
+24,Dark S2E4,Episodio,Episodio 4 T2 Dark,49,2019,4.7
+25,Dark S2E5,Episodio,Episodio 5 T2 Dark,48,2019,4.6
